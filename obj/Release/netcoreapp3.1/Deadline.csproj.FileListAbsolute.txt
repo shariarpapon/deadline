@@ -1,0 +1,14 @@
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.exe
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.deps.json
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.runtimeconfig.json
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.runtimeconfig.dev.json
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.dll
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\Deadline.pdb
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.csproj.AssemblyReference.cache
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.GeneratedMSBuildEditorConfig.editorconfig
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.AssemblyInfoInputs.cache
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.AssemblyInfo.cs
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.csproj.CoreCompileInputs.cache
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.dll
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.pdb
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\obj\Release\netcoreapp3.1\Deadline.genruntimeconfig.cache

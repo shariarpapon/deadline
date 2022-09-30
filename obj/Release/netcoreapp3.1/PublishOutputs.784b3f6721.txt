@@ -1,0 +1,5 @@
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\publish\Deadline.exe
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\publish\Deadline.dll
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\publish\Deadline.deps.json
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\publish\Deadline.runtimeconfig.json
+Q:\VS2019 Projects\Deadline\Deadline\Deadline\bin\Release\netcoreapp3.1\publish\Deadline.pdb
